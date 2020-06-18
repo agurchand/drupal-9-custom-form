@@ -1,0 +1,5 @@
+my_custom_form.myform:
+  title: 'My Custom Form'
+  url: internal:/myform
+  menu_name: main
+
